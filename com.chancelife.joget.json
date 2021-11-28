@@ -1,46 +1,12 @@
 {
-    "redirect":
-	[
-        {
-		"url_utama": "file:///android_asset/music/playlist.html",
+ "Ads": [
+    {
+    "admob_interid": "",
+    "admob_bannerid": "",
+  "interval":5,
+    "startappid": "211751235"
 
-		"enable_mp3": true,
-                "enable_strap": true,
-                "enable_strap_Splah": true,
-                "ads_on_exit_dialog": true,
-
-                "pengaturan_iklan": "1",
-		"inter_count": 2,
-
-            	"startapp": "211751235",
-
-                "appid": "pub-8359503984668545",
-                "admobappid": "ca-app-pub-8359503984668545~9653126106",
-                "bannerid": "ca-app-pub-8359503984668545/4426873678",
-                "interid": "ca-app-pub-8359503984668545/7451658114",
-		"nativeid" : "",                
-
-                "hpk_alien": "",
-                "hpkadmob1": "",
-                "hpkadmob2": "",
-                "hpkadmob3": "",
-                "hpkadmob4": "",
-                "hpkadmob5": "",
-
-                "fan_inter": "YOUR_PLACEMENT_ID",
-                "fan_banner": "YOUR_PLACEMENT_ID",
-		"fan_native": "YOUR_PLACEMENT_ID",
-
-		"exit_popup_dialog":
-		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
-				 
-                "url_more_apps": "https://play.google.com/store/apps/details?id=com.ChanceLife.kpop2",
-                "rate_button" : "Rate 5 Stars Now",
-                "later_button" : "Rate Later",
-		"more_button" : "More Awesome Apps",
-				 
-		"json_popup_wait" : "Siap . . . ."
-
-        }
-    ]
+    }
+  ]
 }
+
