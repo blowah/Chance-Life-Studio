@@ -1,0 +1,301 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Aku Ikhlas",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A2AkuIkhlas.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Aku Tenang",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A3AkuTenang.mp3",
+			"duration": "297",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Angin Ndalu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A4AnginNdalu.mp3",
+			"duration": "258",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Balik Kanan Wae",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A5BalikKananWae.mp3",
+			"duration": "248",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Banyu Moto",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A6BanyuMoto.mp3",
+			"duration": "266",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Berbeza Kasta",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A7BerbezaKasta.mp3",
+			"duration": "284",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Bukan Cinta Biasa",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "A8BukanCintaBiasa.mp3",
+			"duration": "267",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Cukup Semene",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A9CukupSemene.mp3",
+			"duration": "283",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Tak Warai Carane",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/A1TakWaraiCarane.mp3",
+			"duration": "275",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Dermaga Biru",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B1DermagaBiru.mp3",
+			"duration": "320",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Jawaban Kartonyono Medot Janji",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B2JawabanKartonyonoMedotJanji.mp3",
+			"duration": "314",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Kadung Jeru",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B3KadungJeru.mp3",
+			"duration": "324",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Kebacut Loro",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B4KebacutLoro.mp3",
+			"duration": "276",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "B5 LDR Layang Dungo Restu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B5 LDRLayangDungoRestu.mp3",
+			"duration": "326",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Lali Rasane Tresno",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B6LaliRasaneTresno.mp3",
+			"duration": "332",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Lewat Angin Wengi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B7LewatAnginWengi.mp3",
+			"duration": "317",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Lintang Ati",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B8LintangAti.mp3",
+			"duration": "288",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Lungamu Ninggal Kenangan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/B9LungamuNinggalKenangan.mp3",
+			"duration": "304",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Nandur Perih",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C1NandurPerih.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Ndas Gerih",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C2NdasGerih.mp3",
+			"duration": "292",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Perlahan",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C3Perlahan.mp3",
+			"duration": "291",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Sadar Diri",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C4SadarDiri.mp3",
+			"duration": "287",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Salam Tresno",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C5SalamTresno.mp3",
+			"duration": "297",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Sayang Mu Sirno",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C6SayangMuSirno.mp3",
+			"duration": "281",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Sewates Kerjo",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C7SewatesKerjo.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Tak Ikhlasno",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C8TakIkhlasno",
+			"duration": "276",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Tau Tatu",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/C9TauTatu.mp3",
+			"duration": "312",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Tepung Kanji",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D1TepungKanji.mp3",
+			"duration": "322",
+			"lyrics": ""
+
+		},
+		{
+			"id": 29,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Wes Tatas",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D2WesTatas",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "HAPPY ASMARA FT DENNY CAKNAN",
+			"title": "Wong Sepele",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D3WongSepele.mp3",
+			"duration": "336",
+			"lyrics": ""
+		}
+
+	]
+}
