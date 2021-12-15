@@ -1,0 +1,265 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "BTS",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "BTS",
+			"title": "0000",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/0000.mp3",
+			"duration": "249",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "BTS",
+			"title": "Best Of me",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BestOfme.mp3",
+			"duration": "233",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "BTS",
+			"title": "BLACK SWAN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BLACKSWAN.mp3",
+			"duration": "198",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "BTS",
+			"title": "blood sweat tears",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/bloodsweattears.mp3",
+			"duration": "222",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "BTS",
+			"title": "Blue And Grey",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BlueAndGrey.mp3",
+			"duration": "255",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "BTS",
+			"title": "Boy With Luv",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BoyWithLuv.mp3",
+			"duration": "222",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "BTS",
+			"title": "Dis Ease",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DisEase.mp3",
+			"duration": "266",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "BTS",
+			"title": "DNA",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DNA.mp3",
+			"duration": "228",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "BTS",
+			"title": "DONT LEAVE ME",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DONTLEAVEME.mp3",
+			"duration": "225",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "BTS",
+			"title": "Dynamite",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Dynamite.mp3",
+			"duration": "198",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "BTS",
+			"title": "Euphoria",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Euphoria.mp3",
+			"duration": "230",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "BTS",
+			"title": "FAKE LOVE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FAKELOVE.mp3",
+			"duration": "240",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "BTS",
+			"title": "Fly To My Room",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FlyToMyRoom.mp3",
+			"duration": "222",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "BTS",
+			"title": "Friends",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Friends.mp3",
+			"duration": "199",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "BTS",
+			"title": "Heartbeat",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Heartbeat.mp3",
+			"duration": "254",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "BTS",
+			"title": "IDOL",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/IDOL.mp3",
+			"duration": "212",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "BTS",
+			"title": "I NEED U",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/INEEDU.mp3",
+			"duration": "210",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "BTS",
+			"title": "Life Goes On",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/LifeGoesOn.mp3",
+			"duration": "208",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "BTS",
+			"title": "MIC DROP",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MICDROP.mp3",
+			"duration": "238",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "BTS",
+			"title": "ON",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/ON.mp3",
+			"duration": "247",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "BTS",
+			"title": "RUN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RUN.mp3",
+			"duration": "246",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "BTS",
+			"title": "Savage Love",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SavageLove.mp3",
+			"duration": "185",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "BTS",
+			"title": "Save Me",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SaveMe.mp3",
+			"duration": "234",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "BTS",
+			"title": "Spring Day",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SpringDay.mp3",
+			"duration": "274",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "BTS",
+			"title": "STAY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/STAY.mp3",
+			"duration": "205",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "BTS",
+			"title": "Telepathy",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Telepathy.mp3",
+			"duration": "203",
+			"lyrics": ""
+		}
+		
+
+	]
+}
