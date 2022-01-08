@@ -1,0 +1,345 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "KPOP SAD SONG",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "KPOP SAD SONG",
+			"title": "2NE1_GOODBYE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/2NE1_GOODBYE.mp3",
+			"duration": "232",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "KPOP SAD SONG",
+			"title": "AMBER_ON MY OWN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AMBER_ONMYOWN.mp3",
+			"duration": "180",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "KPOP SAD SONG",
+			"title": "Baek Ji young_DONT FORGET",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BaekJiyoung_DONTFORGET.mp3",
+			"duration": "245",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "KPOP SAD SONG",
+			"title": "BEAST_TAKE CARE OF MY GIRL FRIEND",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BEAST_TAKECAREOFMYGIRLFRIEND.mp3",
+			"duration": "194",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "KPOP SAD SONG",
+			"title": "BigBang_HARU HARU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BigBang_HARUHARU.mp3",
+			"duration": "254",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "KPOP SAD SONG",
+			"title": "BTOB_MISSING YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BTOB_MISSINGYOU.mp3",
+			"duration": "237",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "KPOP SAD SONG",
+			"title": "BTS_THE TRUTH UNTOLD",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BTS_THETRUTHUNTOLD.mp3",
+			"duration": "245",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "KPOP SAD SONG",
+			"title": "CNBLUE_DOMINO",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CNBLUE_DOMINO.mp3",
+			"duration": "210",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "KPOP SAD SONG",
+			"title": "Davichi_ITS ALRIGHT THIS IS LOVE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Davichi_ITSALRIGHTTHISISLOVE.mp3",
+			"duration": "244",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "KPOP SAD SONG",
+			"title": "DAY6_CONGRATULATIONS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DAY6_CONGRATULATIONS.mp3",
+			"duration": "264",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "KPOP SAD SONG",
+			"title": "Eric Nam_HONESTLY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/EricNam_HONESTLY.mp3",
+			"duration": "206",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "KPOP SAD SONG",
+			"title": "G-Dragon_THATXX",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G-Dragon_THATXX.mp3",
+			"duration": "201",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "KPOP SAD SONG",
+			"title": "G-DRAGON_UNTITLED 2014",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G-DRAGON_UNTITLED2014.mp3",
+			"duration": "228",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "KPOP SAD SONG",
+			"title": "Girls Day_I MISS YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/GirlsDay_IMISSYOU.mp3",
+			"duration": "217",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "KPOP SAD SONG",
+			"title": "iKON_GOODBYE ROAD",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/iKON_GOODBYEROAD.mp3",
+			"duration": "245",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "KPOP SAD SONG",
+			"title": "Infinite_PARADISE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Infinite_PARADISE.mp3",
+			"duration": "215",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "KPOP SAD SONG",
+			"title": "IU & OhHyuk_CANT LOVE YOU ANYMORE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/IU&OhHyuk_CANTLOVEYOUANYMORE.mp3",
+			"duration": "198",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "KPOP SAD SONG",
+			"title": "Jisun_WHAT SHOULD I DO",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Jisun_WHATSHOULDIDO.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "KPOP SAD SONG",
+			"title": "Onew X Rocoberry_LULLABY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/OnewXRocoberry_LULLABY.mp3",
+			"duration": "201",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "KPOP SAD SONG",
+			"title": "RAIN_HOW TO AVOID THE SUN",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RAIN_HOWTOAVOIDTHESUN.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "KPOP SAD SONG",
+			"title": "RedVelvet_ONE OF THESE NIGHTS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/RedVelvet_ONEOFTHESENIGHTS.mp3",
+			"duration": "260",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "KPOP SAD SONG",
+			"title": "SHINee_TELL ME WHAT TO DO",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SHINee_TELLMEWHATTODO.mp3",
+			"duration": "247",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "KPOP SAD SONG",
+			"title": "shinhwa_HURTS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/shinhwa_HURTS.mp3",
+			"duration": "252",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "KPOP SAD SONG",
+			"title": "super Junior_EVANESCE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/superJunior_EVANESCE.mp3",
+			"duration": "225",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "KPOP SAD SONG",
+			"title": "Tablo ft Taeyang_EYES NOSE LIPS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TabloftTaeyang_EYESNOSELIPS.mp3",
+			"duration": "217",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "KPOP SAD SONG",
+			"title": "Jonghyun_END OF A DAY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Jonghyun_ENDOFADAY.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "KPOP SAD SONG",
+			"title": "JONGHYUN ft TAEYEON_LONELY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/JONGHYUNftTAEYEON_LONELY.mp3",
+			"duration": "257",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "KPOP SAD SONG",
+			"title": "Leehi_BREATHE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Leehi_BREATHE.mp3",
+			"duration": "274",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "KPOP SAD SONG",
+			"title": "Lyn_MISS YOU CRYING",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lyn_MISSYOUCRYING.mp3",
+			"duration": "264",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "KPOP SAD SONG",
+			"title": "NCTU_TIMELESS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/NCTU_TIMELESS.mp3",
+			"duration": "251",
+			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "KPOP SAD SONG",
+			"title": "TAEYEON_FINE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TAEYEON_FINE.mp3",
+			"duration": "211",
+			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "KPOP SAD SONG",
+			"title": "TAEYEON_TIME LAPSE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TAEYEON_TIMELAPSE.mp3",
+			"duration": "255",
+			"lyrics": ""
+		},
+		{
+			"id": 33,
+			"name_category": "KPOP SAD SONG",
+			"title": "Urban Zakapa_IDONT LOVE YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/UrbanZakapa_IDONTLOVEYOU.mp3",
+			"duration": "255",
+			"lyrics": ""
+		},
+		{
+			"id": 34,
+			"name_category": "KPOP SAD SONG",
+			"title": "UZY_ IM IN LOVE WITH SOME ONE ELSE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/UZY_ IMINLOVEWITHSOMEONEELSE.mp3",
+			"duration": "241",
+			"lyrics": ""
+		},
+		{
+			"id": 35,
+			"name_category": "KPOP SAD SONG",
+			"title": "VIXXLR_BEAUTIFULL LIAR",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/VIXXLR_BEAUTIFULLLIAR.mp3",
+			"duration": "235",
+			"lyrics": ""
+		}
+
+	]
+}
