@@ -1,0 +1,330 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "FROMIS_9 SONG",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "FROMIS_9 SONG",
+			"title": "0g",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/0g.mp3",
+			"duration": "198",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "FROMIS_9 SONG",
+			"title": "22 Century Girl",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/22CenturyGirl.mp3",
+			"duration": "217",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Air plane Mode",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AirplaneMode.mp3",
+			"duration": "183",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Be With You",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/BeWithYou.mp3",
+			"duration": "231",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "FROMIS_9 SONG",
+			"title": "CLOSE TO YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CLOSETOYOU.mp3",
+			"duration": "125",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "FROMIS_9 SONG",
+			"title": "CLOVER",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CLOVER.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Coloring",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Coloring.mp3",
+			"duration": "218",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Dancing Queen",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DancingQueen.mp3",
+			"duration": "208",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "FROMIS_9 SONG",
+			"title": "DM",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DM.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "FROMIS_9 SONG",
+			"title": "DKDK",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DKDK.mp3",
+			"duration": "184",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Escape Room",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/EscapeRoom.mp3",
+			"duration": "208",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Feel Good",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FeelGood.mp3",
+			"duration": "223",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "FROMIS_9 SONG",
+			"title": "FIRST LOVE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FIRSTLOVE.mp3",
+			"duration": "179",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "FROMIS_9 SONG",
+			"title": "FLY HIGH",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FLYHIGH.mp3",
+			"duration": "220",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "FROMIS_9 SONG",
+			"title": "FUN!",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FUN!.mp3",
+			"duration": "183",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Glass Shoes",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/GlassShoes.mp3",
+			"duration": "192",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Glass Shoes_MAMA Ver",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/GlassShoes_MAMAVer.mp3",
+			"duration": "215",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "FROMIS_9 SONG",
+			"title": "HUSH HUSH",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/HUSHHUSH.mp3",
+			"duration": "230",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "FROMIS_9 SONG",
+			"title": "IDon’t Know Yet What Love Is",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/IDon’tKnowYetWhatLoveIs.mp3",
+			"duration": "247",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "FROMIS_9 SONG",
+			"title": "LOVE BOMB",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/LOVEBOMB.mp3",
+			"duration": "203",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "FROMIS_9 SONG",
+			"title": "LOVE IS AROUND",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/LOVEISAROUND.mp3",
+			"duration": "242",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "FROMIS_9 SONG",
+			"title": "LOVE RUM PUM PUM",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/LOVERUMPUMPUM.mp3",
+			"duration": "186",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "FROMIS_9 SONG",
+			"title": "MIRACLE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MIRACLE.mp3",
+			"duration": "226",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Mulgogi",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Mulgogi.mp3",
+			"duration": "171",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Pinocchio",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Pinocchio.mp3",
+			"duration": "203",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Promise",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Promise.mp3",
+			"duration": "219",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Some Body To Love",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SomeBodyToLove.mp3",
+			"duration": "193",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Starry Night",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/StarryNight.mp3",
+			"duration": "181",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Talk & Talk",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Talk&Talk.mp3",
+			"duration": "202",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "FROMIS_9 SONG",
+			"title": "THINK OF YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/THINKOFYOU.mp3",
+			"duration": "215",
+			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "FROMIS_9 SONG",
+			"title": "To Heart",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/ToHeart.mp3",
+			"duration": "189",
+			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "FROMIS_9 SONG",
+			"title": "Weather",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Weather.mp3",
+			"duration": "202",
+			"lyrics": ""
+		},
+		{
+			"id": 33,
+			"name_category": "FROMIS_9 SONG",
+			"title": "WEGO",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/WEGO.mp3",
+			"duration": "218",
+			"lyrics": ""
+		}
+		
+		
+		
+
+	]
+}
