@@ -1,14 +1,14 @@
 {
 	"Ads": [{
 		"select_main_ads": "ADMOB",
-		"select_backup_ads": "STARTAPP",
-		"main_ads_banner": "ca-app-pub-8359503984668545/4759892072",
-		"main_ads_intertitial": "ca-app-pub-8359503984668545/8315993707",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
 		"backup_ads_banner": "qwerty1234",
 		"backup_ads_intertitial": "qwerty1234",
 		"interval_intertitial": 3,
-		"initialize_sdk": "208696092",
-		"initialize_sdk_backup_ads": "208696092",
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
 		"high_paying_keyword_1": "",
 		"high_paying_keyword_2": "",
 		"high_paying_keyword_3": "",
@@ -174,7 +174,7 @@
 			"name_category": "NCT",
 			"title": "Make A Wish (Birthday Song)",
 			"image": "file:///android_asset/image/anyar.jpg",
-			"link_mp3": "mp3/B8MakeAWish(Birthday Song).mp3",
+			"link_mp3": "mp3/B8MakeAWish(BirthdaySong).mp3",
 			"duration": "230",
 			"lyrics": ""
 		},
@@ -237,7 +237,7 @@
 			"name_category": "NCT",
 			"title": "Volcano",
 			"image": "file:///android_asset/image/anyar.jpg",
-			"link_mp3": "mp3/Volcano.mp3",
+			"link_mp3": "mp3/C6Volcano.mp3",
 			"duration": "235",
 			"lyrics": ""
 		},
@@ -276,7 +276,296 @@
 			"link_mp3": "mp3/D1WorkIt.mp3",
 			"duration": "188",
 			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "NCT",
+			"title": "EARTHQUAKE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D2EARTHQUAKE.mp3",
+			"duration": "254",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "NCT",
+			"title": "STICKER",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D3STICKER.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 31,
+			"name_category": "NCT",
+			"title": "Beautiful",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D4Beautiful.mp3",
+			"duration": "307",
+			"lyrics": ""
+		},
+		{
+			"id": 32,
+			"name_category": "NCT",
+			"title": "DREAMING",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D5DREAMING.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 33,
+			"name_category": "NCT",
+			"title": "Birthday Party",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D6BirthdayParty.mp3",
+			"duration": "244",
+			"lyrics": ""
+		},
+		{
+			"id": 34,
+			"name_category": "NCT",
+			"title": "KNOW NOW",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D7KNOWNOW.mp3",
+			"duration": "275",
+			"lyrics": ""
+		},
+		{
+			"id": 35,
+			"name_category": "NCT",
+			"title": "OK",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D8OK.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 36,
+			"name_category": "NCT",
+			"title": "ROUND&ROUND",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/D9ROUND&ROUND.mp3",
+			"duration": "249",
+			"lyrics": ""
+		},
+		{
+			"id": 37,
+			"name_category": "NCT",
+			"title": "Sweet Dream",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E1SweetDream.mp3",
+			"duration": "257",
+			"lyrics": ""
+		},
+		{
+			"id": 38,
+			"name_category": "NCT",
+			"title": "VROOM",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E2VROOM.mp3",
+			"duration": "271",
+			"lyrics": ""
+		},
+		{
+			"id": 39,
+			"name_category": "NCT",
+			"title": "New Axis",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E3NewAxis.mp3",
+			"duration": "178",
+			"lyrics": ""
+		},
+		{
+			"id": 40,
+			"name_category": "NCT",
+			"title": "Good Night",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E4GoodNight.mp3",
+			"duration": "238",
+			"lyrics": ""
+		},
+		{
+			"id": 41,
+			"name_category": "NCT",
+			"title": "Miracle",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E5Miracle.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 42,
+			"name_category": "NCT",
+			"title": "Universe_Let'sPlayBall",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E6Universe_LetsPlayBall.mp3",
+			"duration": "231",
+			"lyrics": ""
+		},
+		{
+			"id": 43,
+			"name_category": "NCT",
+			"title": "So Am I",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E7SoAmI.mp3",
+			"duration": "185",
+			"lyrics": ""
+		},
+		{
+			"id":44,
+			"name_category": "NCT",
+			"title": "No Longer",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E8NoLonger.mp3",
+			"duration": "294",
+			"lyrics": ""
+		},
+		{
+			"id": 45,
+			"name_category": "NCT",
+			"title": "Replay",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/E9Replay.mp3",
+			"duration": "224",
+			"lyrics": ""
+		},
+		{
+			"id": 46,
+			"name_category": "NCT",
+			"title": "ROAD TRIP",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F1ROADTRIP.mp3",
+			"duration": "248",
+			"lyrics": ""
+		},
+		{
+			"id": 47,
+			"name_category": "NCT",
+			"title": "Punch",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F2Punch.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 48,
+			"name_category": "NCT",
+			"title": "Superhuman",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F3Superhuman.mp3",
+			"duration": "242",
+			"lyrics": ""
+		},
+		{
+			"id": 49,
+			"name_category": "NCT",
+			"title": "Touch",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F4Touch.mp3",
+			"duration": "190",
+			"lyrics": ""
+		},
+		{
+			"id": 50,
+			"name_category": "NCT",
+			"title": "Lemonade",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F5Lemonade.mp3",
+			"duration": "191",
+			"lyrics": ""
+		},
+		{
+			"id": 51,
+			"name_category": "NCT",
+			"title": "SAVE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F6SAVE.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 52,
+			"name_category": "NCT",
+			"title": "0 Mile",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F7_0Mile.mp3",
+			"duration": "205",
+			"lyrics": ""
+		},
+		{
+			"id": 53,
+			"name_category": "NCT",
+			"title": "Highway to Heaven [English Vers]",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F8HighwaytoHeaven[EnglishVers].mp3",
+			"duration": "209",
+			"lyrics": ""
+		},
+		{
+			"id": 54,
+			"name_category": "NCT",
+			"title": "MadCity",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/F9MadCity.mp3",
+			"duration": "199",
+			"lyrics": ""
+		},
+		{
+			"id": 55,
+			"name_category": "NCT",
+			"title": "Sun & Moon",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G1Sun&Moon.mp3",
+			"duration": "190",
+			"lyrics": ""
+		},
+		{
+			"id": 56,
+			"name_category": "NCT",
+			"title": "Welcome To My Play ground",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G2WelcomeToMyPlayground.mp3",
+			"duration": "240",
+			"lyrics": ""
+		},
+		{
+			"id": 57,
+			"name_category": "NCT",
+			"title": "Whiplash",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G3Whiplash.mp3",
+			"duration": "204",
+			"lyrics": ""
+		},
+		{
+			"id": 58,
+			"name_category": "NCT",
+			"title": "Back2U",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G4Back2U.mp3",
+			"duration": "236",
+			"lyrics": ""
+		},
+		{
+			"id": 59,
+			"name_category": "NCT",
+			"title": "Good Thing",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G5GoodThing.mp3",
+			"duration": "221",
+			"lyrics": ""
+		},
+		{
+			"id": 60,
+			"name_category": "NCT",
+			"title": "PARADISE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/G6PARADISE.mp3",
+			"duration": "204",
+			"lyrics": ""
 		}
+		
 
 	]
 }
