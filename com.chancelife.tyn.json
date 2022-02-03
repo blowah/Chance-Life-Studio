@@ -1,0 +1,301 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "TAEYEON SONG MUSIC",
+			"image": "file:///android_asset/image/anyar.jpg"
+		}
+
+
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "11 11",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/1111.mp3",
+			"duration": "223",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "ALL ABOUT YOU",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/ALLABOUTYOU.mp3",
+			"duration": "210",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "All With You",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/AllWithYou.mp3",
+			"duration": "234",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Blue",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Blue.mp3",
+			"duration": "213",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Circus",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Circus.mp3",
+			"duration": "234",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "DEAR ME",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DEARME.mp3",
+			"duration": "261",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "DRAWING OUR MOMENTS",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/DRAWINGOURMOMENTS.mp3",
+			"duration": "311",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "FINE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FINE.mp3",
+			"duration": "211",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Can't Control My self",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CantControlMyself.mp3",
+			"duration": "181",
+			"lyrics": "<br/>Ah ah ah ah ah ah<br/>Ah ah ah ah ah ah<br/><br/>Kiman huljjeok keobeorin<br/>Eoreunai gata<br/>Jinshimi eomneun ne mare<br/>Gamdanghaji mot hal<br/>Gamjeongeul taekhaetjana<br/><br/>Geurae Too late<br/>Sangcheoreul dwedolligien<br/>Neujeobeoryeosseo<br/><br/>Michyeotta haedo mweo eottae<br/>Ah ah ah ah<br/>Cause I can't control myself<br/>Ah ah ah ah<br/><br/>Ne apeseon modeun ge<br/>Jal tongjega an dwae<br/>Da teojil geotman gata<br/>Cause I can't control myself<br/><br/>Banbokdweneun Bad days<br/>Bichamhae badangan gamjeong<br/>Heotdolgiman hae heolgeoun banjicheoreom<br/>Sanggwaneopseo sarangi da ireol tende<br/><br/>Michyeotta haedo mweo eottae<br/>Ah ah ah ah<br/>Cause I can't control myself<br/>Ah ah ah ah<br/><br/>Ne apeseon modeun ge<br/>Jal tongjega an dwae<br/>Da teojil geotman gata<br/>Cause I can't control myself<br/><br/>Ah ha ha ha<br/>Feels like heaven feels like hell<br/>Ah ha ha ha<br/>Geumajeodo I don't care<br/>Ah nan ttodashi nege<br/>Dwedoragal tende<br/><br/>Michyeotta haedo mweo eottae<br/>Ah ah ah ah<br/>Cause I can't control myself<br/>Ah ah ah ah<br/><br/>Ne apeseon modeun ge<br/>Jal tongjega an dwae<br/>Da teojil geotman gata<br/>Cause I can't control myself<br/><br/>Ah ah ah ah<br/>Ah ah ah ah<br/><br/>Ne apeseon modeun ge<br/>Jal tongjega an dwae<br/>Da teojil geotman gata<br/>Cause I can't control myself<br/>"
+		},
+		{
+			"id": 10,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Fire",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Fire.mp3",
+			"duration": "186",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Four Seasons",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/FourSeasons.mp3",
+			"duration": "190",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "GRAVITY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/GRAVITY.mp3",
+			"duration": "252",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "HAPPY",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/HAPPY.mp3",
+			"duration": "259",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "I ft Verbal Jint",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/I(ftVerbalJint).mp3",
+			"duration": "249",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "If",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/If.mp3",
+			"duration": "262",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Kiss Me",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/KissMe.mp3",
+			"duration": "240",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Lonely",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Lonely.mp3",
+			"duration": "245",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Make Me Love You",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/MakeMeLoveYou.mp3",
+			"duration": "216",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "ONLY ONE",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/ONLYONE.mp3",
+			"duration": "250",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Rain",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Rain.mp3",
+			"duration": "223",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Something New",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/SomethingNew.mp3",
+			"duration": "201",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Spark",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Spark.mp3",
+			"duration": "217",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Starlight",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Starlight.mp3",
+			"duration": "225",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Stress",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Stress.mp3",
+			"duration": "200",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Time Lapse",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/TimeLapse.mp3",
+			"duration": "255",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "UR",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/UR.mp3",
+			"duration": "273",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Weekend",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Weekend.mp3",
+			"duration": "234",
+			"lyrics": "<br/>Gajang gakkaun bada<br/>Honjamanui yeonghwagwan<br/>Geunyang ikkeullineun daero haedo gwaenchaneunikka<br/><br/>Every morning ullin<br/>Beep beep beep beep sori<br/>Gwie wingwingwing maemdoneun<br/>Nareul jaechokadeon moningkol eopsi ireona<br/>Cheese cake han ip<br/>Yurikeop hangadeuk<br/>Naerin keopi han jan<br/>Aiseuro hallae aju yeoyuropge<br/>Mundeuk sigyel boni<br/>Beolsseo siganeun yeoldusi<br/>Geuraedo aju neugeuthae<br/>Geurigon hapum han beon<br/>Hankkeot gijigaedo kyeogo<br/>Saenggakae oneul mwo halkka<br/><br/>Changmun neomeo gyejeore siseoni daeun geu sungan<br/>Ssodajineun haetsal nae mameul dudeuryeo<br/>Naege sonjithaneun singgeureoun baram tagoseo<br/>Tteonabollae When the weekend comes<br/><br/>I can do whatever I want<br/>Baram ttara heuteojin cloud<br/>Deo jayuropge we can go (Hey)<br/>Gajang gakkaun bada<br/>Honjamanui yeonghwagwan<br/>Geunyang ikkeullineun daero haedo gwaenchaneunikka<br/>Huljjeok tteonaboneun drive<br/>Ttubeok georeodo joa<br/>Mwodeun balgil danneun daero jigeum tteonaboryeo hae oh<br/><br/>Harujjeum sesangui yaegil musihan chae<br/>Naega naui harureul joripae boryeo hae<br/>Deoneun no no stress gomin an hallae<br/>Move it right left right nae mamdaero<br/>Gabon jeokdo eomneun gil mwoga itdeunji<br/>I don't need a map<br/>When I roll the streets<br/>Ieo gaboneun iyun for a little fun<br/>Gyesok up up up jom deo ollaga<br/>Hanjjok gilmotungi ttara mamdaero jaranan<br/>Jogeuman ireum moreul kkot<br/>Hanchameul baraboda tteugeoun haetsareul pihae<br/>Benchie jamkkan anja bwa<br/><br/>Neuryeojineun georeum geurimjaui sokdoreul ttara<br/>Hamkke geonneun taeyanggwa bareul matchugo<br/>Dwiieul dalbicheul ttara doraogo sipeun geol<br/>Tteonabollae When the weekend comes<br/><br/>I can do whatever I want<br/>Baram ttara heuteojin cloud<br/>Deo jayuropge we can go (Hey)<br/><br/>Amu gyehoegi eopseoseo wanbyeokan plan<br/>Uyeonhi chajanaen secret place<br/>Geugose dugo wa namanui jageun jim<br/>Golmokgil kkeuteul dora mannage doel<br/>Gibun joeun surprise tto seollem<br/>Dugeundugeun onjongil<br/>Gosohan hyanggiui coffee shop<br/>Nune deureooneun yeppeun ot<br/>Do it for the weekend<br/>Do it for the weekend<br/>Mame deureooneun geol deoneun mangseorigin sileun geol<br/>Geuraedo dwae When the weekend comes<br/><br/>I can do whatever I want<br/>Baram ttara heuteojin cloud<br/>Deo jayuropge we can go (Hey)<br/>Gajang gakkaun bada<br/>Honjamanui yeonghwagwan<br/>Geunyang ikkeullineun daero haedo gwaenchaneunikka<br/>Huljjeok tteonaboneun drive<br/>Ttubeok georeodo joa<br/>Mwodeun balgil danneun daero jigeum tteonaboryeo hae oh<br/>"
+		},
+		{
+			"id": 28,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "What Do I Call You",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/WhatDoICallYou.mp3",
+			"duration": "171",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Why",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/Why.mp3",
+			"duration": "208",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "TAEYEON SONG MUSIC",
+			"title": "Can You Hear Me",
+			"image": "file:///android_asset/image/anyar.jpg",
+			"link_mp3": "mp3/CanYouHearMe.mp3",
+			"duration": "244",
+			"lyrics": ""
+		}
+		
+
+	]
+}
